@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+  }
+  .container{
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+  }
+  h1{
+    color: blue;
+    padding: 15px;
+    font-size: 2.5rem;
+  }
+  h3{
+    font-size: 2rem;
+    color: grey;
+  }
+  
+  button{
+    margin: 0.5rem;
+    padding: 0.5rem 1.2rem;
+    font-size: 1.2rem;
+    background-color: yellowgreen;
+  }
+  button:hover{
+    background-color: green;
+    font-size: 1.4rem;
+  }
